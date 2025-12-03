@@ -1,6 +1,6 @@
 Proceso Ejercicio5
     Definir valores Como Entero;
-    Dimension valores[13];
+    Dimension valores[12];
 	
     Definir i, contador Como Entero;
 	

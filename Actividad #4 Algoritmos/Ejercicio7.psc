@@ -1,5 +1,5 @@
 Proceso Ejercicio7
-    Dimension matriz[5,5] 
+    Dimension matriz[4,4] 
     Definir matriz,i, j, contador Como Entero
 	
     contador <- 0

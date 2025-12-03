@@ -1,5 +1,5 @@
 Algoritmo  Ejercicio8
-	Dimensionar datos[8,3] 
+	Dimensionar datos[7,2] 
 	definir datos como caracter
 	Definir i Como Entero
 	Definir totalVentas, promedio, menorVenta Como Real

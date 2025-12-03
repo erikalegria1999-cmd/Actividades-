@@ -1,6 +1,6 @@
 Proceso Ejercicio4
     Definir notas Como Real;
-    Dimension notas[6];
+    Dimension notas[5];
 	
     Definir i Como Entero;
     Definir mayor, menor, promedio, suma Como Real;
