@@ -5,34 +5,34 @@ Proceso SumarArreglos
 	
     Definir i Como Entero
 	
-    Escribir "=== LECTURA DEL ARREGLO A ==="
-    Para i <- 0 Hasta 4 Hacer
+    Escribir "LECTURA DEL ARREGLO A "
+    Para i <- 1 Hasta 5 Hacer
         Escribir "Digite A[", i, "]: "
         Leer A[i]
     FinPara
 	
-    Escribir "=== LECTURA DEL ARREGLO B ==="
-    Para i <- 0 Hasta 4 Hacer
+    Escribir " LECTURA DEL ARREGLO B"
+    Para i <- 1 Hasta 5 Hacer
         Escribir "Digite B[", i, "]: "
         Leer B[i]
     FinPara
 	
-    Para i <- 0 Hasta 4 Hacer
+    Para i <- 1 Hasta 5 Hacer
         C[i] <- A[i] + B[i]
     FinPara
 	
-    Escribir "=== ARREGLO A ==="
-    Para i <- 0 Hasta 4 Hacer
+    Escribir "ARREGLO A "
+    Para i <- 1 Hasta 5 Hacer
         Escribir "A[", i, "] = ", A[i]
     FinPara
 	
-    Escribir "=== ARREGLO B ==="
-    Para i <- 0 Hasta 4 Hacer
+    Escribir "ARREGLO B"
+    Para i <- 1 Hasta 5 Hacer
         Escribir "B[", i, "] = ", B[i]
     FinPara
 	
-    Escribir "=== ARREGLO C (SUMA) ==="
-    Para i <- 0 Hasta 4 Hacer
+    Escribir "ARREGLO C (SUMA)"
+    Para i <- 1 Hasta 5 Hacer
         Escribir "C[", i, "] = ", C[i]
     FinPara
 	

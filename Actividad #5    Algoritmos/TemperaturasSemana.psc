@@ -14,7 +14,7 @@ Proceso TemperaturasSemana
 	
     Repetir
         Escribir ""
-        Escribir "===== MENU TEMPERATURAS ====="
+        Escribir " MENU TEMPERATURAS "
         Escribir "1. Consultar dia con mayor temperatura"
         Escribir "2. Consultar temperaturas de un dia"
         Escribir "3. Salir"

@@ -5,7 +5,7 @@ Proceso SumaDigitos
 	
     Definir i, dec, uni Como Entero
 	
-    Para i <- 0 Hasta 9 Hacer
+    Para i <- 1 Hasta 10 Hacer
         Repetir
             Escribir "Digite un número positivo de dos dígitos:"
             Leer numeros[i]
@@ -18,12 +18,12 @@ Proceso SumaDigitos
     FinPara
 	
     Escribir "ARREGLO DE ENTRADA"
-    Para i <- 0 Hasta 9 Hacer
+    Para i <- 1 Hasta 10 Hacer
         Escribir numeros[i]
     FinPara
 	
     Escribir "ARREGLO DE SUMA DE DIGITOS"
-    Para i <- 0 Hasta 9 Hacer
+    Para i <- 1 Hasta 10 Hacer
         Escribir suma[i]
     FinPara
 	
